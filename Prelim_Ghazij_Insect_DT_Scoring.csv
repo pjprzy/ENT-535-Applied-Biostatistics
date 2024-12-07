@@ -1,4 +1,4 @@
-﻿SLW Locality,SLW field number,GSP-UM #,Leaf Morphotype,identification,DT,DT,DT,DT,DT,DT,DT,DT,DT,DT,# DTs present,checked,Comments,
+﻿slw_locality,slw_field_number,gsp_um_num,leaf_morphotype,identification,dt,dt,dt,dt,dt,dt,dt,dt,dt,dt,num_dts_present,checked,comments,
 SLW0001,SLW0001-01-01,7001,GH08,leaf,12,32,,,,,,,,,2,,,
 SLW0001,SLW0001-01-02,7002,GH08?,leaf,NA,,,,,,,,,,0,y,,
 SLW0001,SLW0001-01-03,7003,GH08,leaf,13,,,,,,,,,,1,y,,
